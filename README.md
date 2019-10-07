@@ -1,44 +1,31 @@
 # quadratic-equation
 
-FIXME: description
+This is a simple project I wrote to learn basic Clojure syntax.
 
 ## Installation
 
-Download from http://example.com/FIXME.
+Download from https://github.com/gwyddie/quadratic-equation.clj.git
+
+    $ git clone https://github.com/gwyddie/quadratic-equation.clj.git
 
 ## Usage
 
-FIXME: explanation
+You can run it with [lein](https://github.com/technomancy/leiningen).
 
-    $ java -jar quadratic-equation-0.1.0-standalone.jar [args]
+    $ lein run
 
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
+The execution steps are self-explanatory, you'll be asked for the coefficients of the quadratic equation (a, b and c).
 
 ### Bugs
 
-...
+No bugs found so far.
 
-### Any Other Sections
-### That You Think
-### Might be Useful
+And you can run the tests with lein too.
 
-## License
+    $ lein test
 
-Copyright © 2019 FIXME
+---
 
-This program and the accompanying materials are made available under the
-terms of the Eclipse Public License 2.0 which is available at
-http://www.eclipse.org/legal/epl-2.0.
+As I said before, it was a project written to learn about Clojure, therefore suggestions are very welcome.
 
-This Source Code may also be made available under the following Secondary
-Licenses when the conditions for such availability set forth in the Eclipse
-Public License, v. 2.0 are satisfied: GNU General Public License as published by
-the Free Software Foundation, either version 2 of the License, or (at your
-option) any later version, with the GNU Classpath Exception which is available
-at https://www.gnu.org/software/classpath/license.html.
+That's all folks.
